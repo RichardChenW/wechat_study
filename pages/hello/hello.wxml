@@ -1,0 +1,5 @@
+<!--pages/hello/hello.wxml-->
+<view>
+    hello world
+</view>
+<button type="primary" bindtap="sayHelloWorld">sayHelloWorld</button>
